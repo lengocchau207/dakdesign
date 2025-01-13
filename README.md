@@ -1,4 +1,3 @@
-# dakdesign
 # Markdown syntax guide
 
 ## Headers
@@ -38,7 +37,7 @@ _You **can** combine them_
 
 ## Images
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+![This is an alt text.](https://i.imgur.com/Mfa7fbn.jpeg "This is a sample image.")
 
 ## Links
 
